@@ -1,2 +1,2 @@
 # cv-frontend
-Página principal "cv.html", que se encuentra dentro del directorio T"Trabajo Final Frontend 
+Página principal "cv.html", que se encuentra dentro del directorio "Trabajo Final - Frontend" del repositorio. 
